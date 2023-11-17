@@ -1,6 +1,6 @@
 # Next.js blog project
 
-This is a next.js project from Udemy's Next.js & React - The Complete Guide course. 
+This is a next.js project from Udemy's Next.js & React - The Complete Guide course. Styling is mostly from course materials.
 
 The blog posts are local markdown files that are read with the help of [gray matter package](https://github.com/jonschlinkert/gray-matter).
 
