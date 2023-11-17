@@ -1,3 +1,15 @@
+# Next.js blog project
+
+This is a next.js project from Udemy's Next.js & React - The Complete Guide course. 
+
+The blog posts are local markdown files that are read with the help of [gray matter package](https://github.com/jonschlinkert/gray-matter).
+
+Comments are stored in the [MongoDB](https://www.mongodb.com/) database.
+
+Deployed to Vercel: https://next-blog-seven-delta.vercel.app/
+
+- - - -
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
